@@ -1,5 +1,7 @@
-/node_modules
-/app
-/.tmp
-/.sass-cache
-/bower_components
+node_modules/
+app/
+.tmp/
+.sass-cache/
+bower_components/
+.idea/
+test/
