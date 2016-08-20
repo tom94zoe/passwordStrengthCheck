@@ -12,9 +12,10 @@
   },
   "ignore": [
     ".tmp",
-    "app"
+    "app",
+    "test"
   ],
-  "main":"dist/passwordStrengthChecker",
+  "main":"dist/passwordStrengthChecker.js",
   "devDependencies": {
     "angular-mocks": "^1.4.0"
   },
