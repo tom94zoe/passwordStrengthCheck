@@ -10,11 +10,6 @@
     "angular-sanitize": "^1.4.0",
     "angular-touch": "^1.4.0"
   },
-  "ignore": [
-    ".tmp",
-    "app",
-    "test"
-  ],
   "main":"dist/passwordStrengthChecker.js",
   "devDependencies": {
     "angular-mocks": "^1.4.0"
